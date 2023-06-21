@@ -1,6 +1,6 @@
-# Hi, Im Jason
+# Hi
 
-I'm a [Haxeflixel](https://haxeflixel.com/) programmer who's mainly working on FNF mods, i am also starting game dev, im doing one which started on december 2022.
+I'm a programmer who's mainly working on FNF mods, i am also starting game dev, im doing one which started on december 2022.
 
 # Now go take some information and stuff lmao
 [![Jason's Stats](https://github-readme-stats.vercel.app/api?username=JustJasonLol&show_icons=true&icon_color=ae00ff&count_private=true&layout=compact&bg_color=600,ff4d58,07a0ed&title_color=000&text_color=000&border_color=ff9198)](https://github.com/JustJasonLol/JustJasonLol)
